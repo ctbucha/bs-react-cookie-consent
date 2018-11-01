@@ -1,5 +1,5 @@
 # bs-react-cookie-consent
-Bucklescript bindings for bs-react-cookie-consent.
+[BuckleScript](https://bucklescript.github.io/) bindings for [react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent).
 
 ## Installation
 
