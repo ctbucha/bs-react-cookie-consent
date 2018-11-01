@@ -1,0 +1,41 @@
+{
+  "name": "@ctbucha/bs-react-cookie-consent",
+  "version": "0.0.1",
+  "description": "BuckleScript bindings for react-cookie-consent.",
+  "main": "index.js",
+  "scripts": {
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w",
+    "clean": "bsb -clean-world",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctbucha/bs-react-cookie-consent.git"
+  },
+  "keywords": [
+    "react-cookie-consent",
+    "bucklescript",
+    "reasonml",
+    "react",
+    "cookie",
+    "gdpr",
+    "binding",
+    "component"
+  ],
+  "author": "ctbucha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctbucha/bs-react-cookie-consent/issues"
+  },
+  "homepage": "https://github.com/ctbucha/bs-react-cookie-consent#readme",
+  "dependencies": {
+    "react-cookie-consent": "^1.9.0"
+  },
+  "devDependencies": {
+    "bs-platform": "^4.0.5"
+  },
+  "peerDependencies": {
+    "reason-react": "^0.5.3"
+  }
+}
